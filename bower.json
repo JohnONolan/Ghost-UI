@@ -1,0 +1,27 @@
+{
+  "name": "ghost-ui",
+  "version": "0.1.0",
+  "authors": [
+    "Ghost Foundation"
+  ],
+  "description": "The user interface framework for the Ghost blogging platform.",
+  "keywords": [
+    "ghost"
+  ],
+  "license": "MIT",
+  "homepage": "https://ghost.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.0",
+    "bourbon": "~3.1.8",
+    "breakpoint-sass": "~2.4.1"
+  }
+}
